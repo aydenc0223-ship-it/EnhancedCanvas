@@ -1,0 +1,5 @@
+{
+  "name": "GlassPlanner",
+  "description": "A liquid-glass aesthetic academic planner that imports Canvas calendar feeds, organizes assignments by class, and uses AI to summarize tasks.",
+  "requestFramePermissions": []
+}
